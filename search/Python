@@ -1,0 +1,10 @@
+[SearchAgent] using function aStarSearch and heuristic nullHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Warning: this does not look like a regular search maze
+Path found with total cost of 12 in 0.0 seconds
+Search nodes expanded: 77
+Pacman died! Score: -588
+Average Score: -588.0
+Scores:        -588.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
